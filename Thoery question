@@ -1,0 +1,18 @@
+1.prime number: divided by 1 and itself is called prime number.
+
+2.ascii values:
+48 ----->57 numbers(01234567890
+65 ----->90 capital alphabets letter
+97------>122 small alphabet letters.
+
+3.palindrome is like 121
+logic:
+remainder=temp%10
+r=(r*10)+remainder
+temp=temp//10
+
+
+4.local variable: A variable accessed within the function is called local variable and it is stored in stack. and it is low risk to use.
+
+5.Global variable: A variable accesse by outside of a func or another function is called global variable and it is stored data segement in memory and it is high risk to use.
+
