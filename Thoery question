@@ -16,3 +16,4 @@ temp=temp//10
 
 5.Global variable: A variable accesse by outside of a func or another function is called global variable and it is stored data segement in memory and it is high risk to use.
 
+
